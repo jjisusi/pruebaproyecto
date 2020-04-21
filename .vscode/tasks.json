@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "angularcli",
+			"option": "serve",
+			"angular": "jugando-con-rutas",
+			"problemMatcher": [],
+			"label": "ng: serve"
+		}
+	]
+}
